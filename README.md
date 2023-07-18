@@ -1,6 +1,6 @@
->#+ turtle-painter
+># + turtle-painter
 
-#####this python code, can paint a squires, rectangles & more.
+##### this python code, can paint a squires, rectangles & more.
 
 ### for painting :
 
